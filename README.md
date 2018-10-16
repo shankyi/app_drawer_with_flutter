@@ -1,2 +1,8 @@
 # app_drawer_with_flutter
-how to create app drawer  with flutter for android and iphone
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
